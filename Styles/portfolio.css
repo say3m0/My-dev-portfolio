@@ -175,7 +175,7 @@ footer{
 }
 footer input[type="text"], #email,footer textarea{
     height: 64px;
-    border-radius: 5px;
+    border-radius: 15px;
     background-color: white;
     display: block;
     width: 100%;
